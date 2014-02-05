@@ -1,0 +1,5 @@
+DUNGEON objekt
+
+
+- Sastoji se od soba i hodnika
+- TILE mapa odredjene X i Y velicine
